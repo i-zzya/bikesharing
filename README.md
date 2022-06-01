@@ -29,7 +29,7 @@ We were tasked to help investors understand that a Bike-Sharing program in Des M
 
 ## Summary 
 
-After cleaning our data I believe a Bike Sharing program in Des Moines to be highly successful. Rides are very popular 
+After cleaning our data I believe a Bike Sharing program in Des Moines to be highly successful. Rides are very popular during business hours, early morning and early evening. Gas prices are above average and more people will look for more afforadble travel. 
 
 
 
